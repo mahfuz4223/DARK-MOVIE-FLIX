@@ -1,0 +1,17 @@
+
+M
+java:S18745"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±èšÙ
+M
+java:S18746"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ý›
+Z
+java:S1874;"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+R
+java:S2209F"5Change this instance-reference to a static reference.(‘ß¨¦8ÇõÀ†¹/
+]	java:S125P"<This block of commented-out lines of code should be removed.(ÂÓ¨¦ûÿÿÿÿ8Ç„Ï†¹/
+S
+java:S2209¤"5Change this instance-reference to a static reference.(‘ß¨¦8àõÀ†¹/
+I
+java:S1068v".Remove this unused "loadedUrls" private field.(ÿÄÐ¨ýÿÿÿÿ
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Óø–ûÿÿÿÿ
+S
+java:S2589‰"7Remove this expression which always evaluates to "true"(…°Ìéùÿÿÿÿ

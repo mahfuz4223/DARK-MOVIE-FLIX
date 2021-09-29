@@ -1,0 +1,13 @@
+
+w
+java:S1450/"ZRemove the "helperUtils" field and declare it as a local variable in the relevant methods.(Ü’æ¶8óÞìä¹/
+z
+java:S1450."XRemove the "vpnStatus" field and declare it as a local variable in the relevant methods.(ÝÈ—†þÿÿÿÿ8ôÞìä¹/
+W
+java:S2209?"5Change this instance-reference to a static reference.(òÖ”¿ûÿÿÿÿ8ƒßìä¹/
+a
+java:S1854º">Remove this useless assignment to local variable "jsonObject".(®¡ŠËýÿÿÿÿ8‡¥òä¹/
+R
+java:S1481º"/Remove this unused "jsonObject" local variable.(®¡ŠËýÿÿÿÿ8‰¥òä¹/
+C
+java:S1604d"(Make this anonymous inner class a lambda(®šì¢üÿÿÿÿ

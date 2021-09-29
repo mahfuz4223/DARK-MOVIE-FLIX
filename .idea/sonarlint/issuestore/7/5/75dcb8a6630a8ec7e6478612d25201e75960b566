@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Å¹ö
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌèš8™ÅÑ¶‘/
+p	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8šÅÑ¶‘/
+k	java:S116"ORename this field "Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ßÍü8šÅÑ¶‘/
+r	java:S116"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôˆ¤½øÿÿÿÿ8šÅÑ¶‘/
+t	java:S116"SRename this field "Currency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÉ—Áûÿÿÿÿ8šÅÑ¶‘/
+q	java:S116	"URename this field "Background" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å–Ñ8šÅÑ¶‘/
+m	java:S116
+"QRename this field "Status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘›Ä»8šÅÑ¶‘/

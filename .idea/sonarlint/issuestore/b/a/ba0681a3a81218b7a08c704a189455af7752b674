@@ -1,0 +1,88 @@
+
+i
+java:S3776Q"SRefactor this method to reduce its Cognitive Complexity from 114 to the 15 allowed.(¶­¯
+Q	java:S125y"<This block of commented-out lines of code should be removed.(ú²À
+[
+java:S1874z">Remove this use of "startActivityForResult"; it is deprecated.(ÿİÈÔ8®ò„ùª/
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ú²À
+\
+java:S1874">Remove this use of "startActivityForResult"; it is deprecated.(ÿİÈÔ8±ò„ùª/
+R	java:S125»"<This block of commented-out lines of code should be removed.(ú²À
+\
+java:S1874¼">Remove this use of "startActivityForResult"; it is deprecated.(ÿİÈÔ8´ò„ùª/
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(ú²À
+\
+java:S1874Û">Remove this use of "startActivityForResult"; it is deprecated.(ÿİÈÔ8·ò„ùª/
+
+java:S3252†"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(Ñ¢Şğ
+n	java:S116"XRename this field "Episode_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâéƒ
+k	java:S116Ÿ"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çì¡òøÿÿÿÿ
+l	java:S116 "VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍûüŠ
+x	java:S116¡"]Rename this field "Download_btn_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÂœùÿÿÿÿ
+l	java:S116¢"VRename this field "Premium_Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ñ’£
+r	java:S116¤"WRename this field "episode_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ÷Á·ÿÿÿÿÿ
+d	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó›ÿï
+d	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…£Ç§
+d	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ˆ’š
+A
+java:S10685"+Remove this unused "rootUrl" private field.(ŠÏ£ã
+E
+java:S10686"*Remove this unused "apiKey" private field.(óõÊøÿÿÿÿ
+c
+java:S1192~"MDefine a constant instead of duplicating this literal "Buy Premium!" 4 times.(Òº¯
+\
+java:S1192_"FDefine a constant instead of duplicating this literal "Embed" 4 times.(—·‰º
+_
+java:S1192f"IDefine a constant instead of duplicating this literal "SourceID" 4 times.(°Ö„•
+`
+java:S1192e"JDefine a constant instead of duplicating this literal "contentID" 4 times.(·Ë˜í
+e
+java:S1192o"JDefine a constant instead of duplicating this literal "WebSeries" 4 times.(ıµèÕşÿÿÿÿ
+ˆ
+java:S1192~"rDefine a constant instead of duplicating this literal "Buy Premium Subscription To Watch Premium Content" 4 times.(Òº¯
+b
+java:S1192h"GDefine a constant instead of duplicating this literal "source" 4 times.(ô²Šîÿÿÿÿÿ
+d
+java:S1192ó"HDefine a constant instead of duplicating this literal "quality" 4 times.(šÈ•Óûÿÿÿÿ
+g
+java:S1192l"LDefine a constant instead of duplicating this literal "intro_start" 4 times.(ôµãÂøÿÿÿÿ
+h
+java:S1192o"MDefine a constant instead of duplicating this literal "Content_Type" 4 times.(ıµèÕşÿÿÿÿ
+g
+java:S1192õ"KDefine a constant instead of duplicating this literal "episode_id" 4 times.(ãÔœ²ûÿÿÿÿ
+e
+java:S1192ø"NDefine a constant instead of duplicating this literal "download_type" 4 times.(çíŠ
+j
+java:S1192k"ODefine a constant instead of duplicating this literal "skip_available" 4 times.(²Äû¡ÿÿÿÿÿ
+g
+java:S1192t"QDefine a constant instead of duplicating this literal "Next_Ep_Avilable" 8 times.(úš™Î
+k
+java:S1192p"VDefine a constant instead of duplicating this literal "Current_List_Position" 4 times.(™Ú¬/
+g
+java:S1192ô"KDefine a constant instead of duplicating this literal "link_order" 4 times.(ßÑå°üÿÿÿÿ
+`
+java:S1192m"JDefine a constant instead of duplicating this literal "intro_end" 4 times.(î«·
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉÀ¹ùÿÿÿÿ
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉÀ¹ùÿÿÿÿ
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉÀ¹ùÿÿÿÿ
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉÀ¹ùÿÿÿÿ
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì¡±ıÿÿÿÿ
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑå°üÿÿÿÿ
+l	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔœ²ûÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíŠ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì¡±ıÿÿÿÿ
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑå°üÿÿÿÿ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔœ²ûÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíŠ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì¡±ıÿÿÿÿ
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑå°üÿÿÿÿ
+l	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔœ²ûÿÿÿÿ
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíŠ
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì¡±ıÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑå°üÿÿÿÿ
+l	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔœ²ûÿÿÿÿ
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíŠ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á»‹·şÿÿÿÿ
+g	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŒ¿
+C
+java:S1604X"(Make this anonymous inner class a lambda(»œÉàùÿÿÿÿ

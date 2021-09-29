@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356287344535",
+    "firebase_url": "https://cobid19dark-default-rtdb.firebaseio.com",
+    "project_id": "cobid19dark",
+    "storage_bucket": "cobid19dark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356287344535:android:055e31d8e19a583df99ed2",
+        "android_client_info": {
+          "package_name": "com.dark.moviesbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356287344535-r5rmksdudmvoia0pjc9vpdqe5h56b9u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9sY0rRK9QDS8fG_wLyu0i_WAYT_5d-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356287344535-r5rmksdudmvoia0pjc9vpdqe5h56b9u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

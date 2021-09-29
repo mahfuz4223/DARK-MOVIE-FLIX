@@ -1,0 +1,35 @@
+
+~
+java:S1128"cRemove this unused import 'com.google.android.youtube.player.YouTubePlayer.PlayerStyle.CHROMELESS'.(»Ü²€úÿÿÿÿ
+e
+java:S1128"PRemove this unused import 'com.google.android.youtube.player.YouTubePlayerView'.(¨øî!
+p
+java:S1450"ZRemove the "helperUtils" field and declare it as a local variable in the relevant methods.(Ü’æ¶
+s
+java:S1450"XRemove the "vpnStatus" field and declare it as a local variable in the relevant methods.(ÝÈ—†þÿÿÿÿ
+M
+java:S18740"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(±èšÙ
+M
+java:S18741"7Remove this use of "FLAG_FULLSCREEN"; it is deprecated.(­‰ý›
+Z
+java:S18746"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+W
+java:S1874;"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(‚ÎÔ§
+\
+java:S1874;"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(‚ÎÔ§
+X
+java:S1874;"BRemove this use of "SYSTEM_UI_FLAG_LOW_PROFILE"; it is deprecated.(‚ÎÔ§
+X
+java:S1874<"=Remove this use of "setSystemUiVisibility"; it is deprecated.(ü†Ý©øÿÿÿÿ
+K
+java:S2209E"5Change this instance-reference to a static reference.(æ¤˜‹
+V
+java:S1874J";Remove this use of "FragmentTransaction"; it is deprecated.(å¿…¶ýÿÿÿÿ
+U
+java:S1874J":Remove this use of "getFragmentManager"; it is deprecated.(å¿…¶ýÿÿÿÿ
+S
+java:S1874J"8Remove this use of "beginTransaction"; it is deprecated.(å¿…¶ýÿÿÿÿ
+J
+java:S1874K"/Remove this use of "replace"; it is deprecated.(Ò„»Šüÿÿÿÿ
+I
+java:S1874L".Remove this use of "commit"; it is deprecated.(Œç•ˆúÿÿÿÿ

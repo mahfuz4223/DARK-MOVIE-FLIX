@@ -1,0 +1,12 @@
+
+k	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ì°şúÿÿÿÿ
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶Â†
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÛ™š
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÑÜ¡úÿÿÿÿ
+C
+java:S16043"(Make this anonymous inner class a lambda(†ÒıÜùÿÿÿÿ
+n	java:S116C"YRename this field "Title_TextView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‚ÙŞ
+r	java:S116D"XRename this field "Time_TextView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Úõ‘øÿÿÿÿ
+t	java:S116E"ZRename this field "Amount_TextView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ìâ¾üÿÿÿÿ
+y	java:S116F"_Rename this field "Subscription_item_bg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿»¨ûÿÿÿÿ
+q	java:S116H"\Rename this field "Subscription_Item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŸã

@@ -1,0 +1,16 @@
+
+o
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶­¯8ìÂîª/
+t	java:S116u"ZRename this field "movie_link_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¯„†üÿÿÿÿ
+o	java:S116v"ZRename this field "movie_link_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ååî
+w	java:S116w"]Rename this field "movie_link_quality" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¼Èşÿÿÿÿ
+t	java:S116x"ZRename this field "movie_link_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¢¼Èşÿÿÿÿ
+k	java:S116y"VRename this field "Premium_Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ñ’£
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©šòÿÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¦ ˆ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûğ¯°ûÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©šòÿÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¦ ˆ
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûğ¯°ûÿÿÿÿ
+C
+java:S16049"(Make this anonymous inner class a lambda(©Íì½ıÿÿÿÿ

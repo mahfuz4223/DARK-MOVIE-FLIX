@@ -1,0 +1,12 @@
+
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¡å³
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°òÎ·úÿÿÿÿ
+k	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íòşÿÿÿÿ
+=
+java:S16045"(Make this anonymous inner class a lambda(Úö°M
+j	java:S116K"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çì¡òøÿÿÿÿ
+d	java:S116L"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸–®
+n	java:S116M"TRename this field "Thumbnail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”‹øøÿÿÿÿ
+p	java:S116O"VRename this field "Premium_Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃÌèûÿÿÿÿ
+j	java:S116Q"URename this field "Movie_Item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÁêÂ
+h	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âñãÎüÿÿÿÿ

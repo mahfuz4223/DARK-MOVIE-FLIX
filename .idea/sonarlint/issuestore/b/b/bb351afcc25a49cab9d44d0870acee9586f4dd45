@@ -1,0 +1,85 @@
+
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(¨Œşÿÿÿÿ
+[
+java:S1874™"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+Q
+java:S2209¦"5Change this instance-reference to a static reference.(¨£ïğøÿÿÿÿ
+„
+java:S3252Ü"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ÁÚÅÿÿÿÿÿ
+„
+java:S3252á"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(àµ«¼ûÿÿÿÿ
+
+java:S3252ı"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(­ÎÕ
+H
+java:S1602 ",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ
+
+java:S3252Ã"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(Ñ¢Şğ
+h
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ş‚ê{
+–
+java:S5803Û"zRemove this usage of "AdRequest", it is annotated with @VisibleForTesting and should not be accessed from production code.(ğ¸Ÿ—ÿÿÿÿÿ
+“
+java:S5803ì"wRemove this usage of "AdSize", it is annotated with @VisibleForTesting and should not be accessed from production code.(·ãô¶øÿÿÿÿ
+J
+java:S1874ö".Remove this use of "Banner"; it is deprecated.(€ŠÄÕüÿÿÿÿ
+g
+java:S3252ù"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ò“
+g
+java:S3252ú"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ßÊ˜
+˜
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×é­¨
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×®‡¬ùÿÿÿÿ
+˜
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÿ“ë
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í‡ú‡ıÿÿÿÿ
+—
+java:S1186£"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ£íz
+
+java:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â·Ş…úÿÿÿÿ
+
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏàÒ§ûÿÿÿÿ
+
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦§õúÿÿÿÿ
+N
+java:S1874Ø"2Remove this use of "initialize"; it is deprecated.(ßÓ¨‚ıÿÿÿÿ
+J
+java:S1602ç",Remove useless curly braces around statement(çÖ¹³8€¾§»/
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿ…Ñúÿÿÿÿ
+Q
+java:S2209â"5Change this instance-reference to a static reference.(¨£ïğøÿÿÿÿ
+d
+java:S1192Ş"MDefine a constant instead of duplicating this literal "release_date" 4 times.(óš«ç
+i
+java:S1192Å"RDefine a constant instead of duplicating this literal "No Data Avaliable" 4 times.(ò´Ìü
+g
+java:S1192õ"KDefine a constant instead of duplicating this literal "x-api-key" 10 times.(çú©ıÿÿÿÿ
+b
+java:S1192İ"FDefine a constant instead of duplicating this literal "Close" 3 times.(™Ã¾ìøÿÿÿÿ
+c
+java:S1192¶"GDefine a constant instead of duplicating this literal "status" 3 times.(½†Ø§ıÿÿÿÿ
+w
+java:S1192å"`Define a constant instead of duplicating this literal "&CONTENT_TYPE=Movie&CONTENT_ID=" 3 times.(…åå
+d
+java:S1192ç"MDefine a constant instead of duplicating this literal "Buy Premium!" 4 times.(–è¤ì
+h
+java:S1192£"RDefine a constant instead of duplicating this literal "SharedPreferences" 3 times.(¼ß§}
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì¡±ıÿÿÿÿ
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑå°üÿÿÿÿ
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©±ãıÿÿÿÿ
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíŠ
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù×Ğõ
+f	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ•
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºåû€
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê³º®
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïƒä¼ûÿÿÿÿ
+g	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¢Å¦
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµÉ÷
+f	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ•
+?
+java:S1604İ"(Make this anonymous inner class a lambda(†£°î
+@
+java:S5411Ö"*Use the primitive boolean expression here.(ëŠ½D

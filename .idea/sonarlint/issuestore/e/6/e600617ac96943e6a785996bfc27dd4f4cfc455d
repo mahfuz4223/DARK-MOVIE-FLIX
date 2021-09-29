@@ -1,0 +1,36 @@
+
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÖµ
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û•Ş“
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸åøÆ
+g	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é…ã¸
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö­
+l	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Šá‡şÿÿÿÿ
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×÷âø
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©œÌÙüÿÿÿÿ
+C
+java:S1604O"(Make this anonymous inner class a lambda(Ë©©ÿÿÿÿÿ
+C
+java:S1604]"(Make this anonymous inner class a lambda(¸¢Î£şÿÿÿÿ
+H
+java:S1128&"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.dooo.android.list.MovieList'.(‘ê”ş
+^
+java:S1128"HRemove this unused import 'com.dooo.android.adepter.ImageSliderAdepter'.(İúç£
+O
+java:S1128
+"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ìÔ²Œ¥/
+F
+java:S1128$"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+]
+java:S1128"BRemove this unused import 'com.dooo.android.list.ImageSliderItem'.(†ßŒæÿÿÿÿÿ
+m	java:S116/"SRename this field "UserData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŸÒÎüÿÿÿÿ
+r	java:S1161"]Rename this field "Upgrade_to_premium" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÊ‰Ğ
+W
+java:S2209C"5Change this instance-reference to a static reference.(—¹”¥ıÿÿÿÿ8¦×…şª/
+Z
+java:S1874H"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+?	java:S108œ")Either remove or fill this block of code.(å¥‡
+i	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë©Ûµúÿÿÿÿ
+X
+java:S2209Ğ"5Change this instance-reference to a static reference.(—¹”¥ıÿÿÿÿ8¿×…şª/

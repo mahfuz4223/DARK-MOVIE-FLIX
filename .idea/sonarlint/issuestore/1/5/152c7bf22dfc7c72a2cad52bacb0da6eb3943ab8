@@ -1,0 +1,13 @@
+
+r	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡÷ Şşÿÿÿÿ8ø°›Š¨/
+m	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÌô‹8ù°›Š¨/
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅïõÿÿÿÿÿ8ù°›Š¨/
+O
+java:S1128"2Remove this unused import 'com.dooo.android.Home'.(§îîÅ8±¦µŠ¨/
+q	java:S116D"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çì¡òøÿÿÿÿ8É±›Š¨/
+k	java:S116E"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸–®8Ê±›Š¨/
+u	java:S116F"TRename this field "Thumbnail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”‹øøÿÿÿÿ8Ê±›Š¨/
+w	java:S116H"VRename this field "Premium_Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃÌèûÿÿÿÿ8Ë±›Š¨/
+q	java:S116J"URename this field "Movie_Item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÁêÂ8Ë±›Š¨/
+t	java:S116L"SRename this field "Show_All" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç·úÿÿÿÿ8Ë±›Š¨/
+o	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§†ò™şÿÿÿÿ8Î±›Š¨/

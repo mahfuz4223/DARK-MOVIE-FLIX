@@ -1,0 +1,37 @@
+
+]
+java:S1192l"GDefine a constant instead of duplicating this literal "Update" 3 times.(´›‡…
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Œşÿÿÿÿ
+W
+java:S2209K"5Change this instance-reference to a static reference.(¤Ë‡úûÿÿÿÿ8…ªğ¿«/
+X
+java:S1874P"=Remove this use of "setSystemUiVisibility"; it is deprecated.(„“©§şÿÿÿÿ
+b
+java:S1874P"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(„“©§şÿÿÿÿ
+Z
+java:S1874S"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+d
+java:S1874j"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(á£áüÿÿÿÿ
+<
+java:S1075l"&Remove this hard-coded path-delimiter.(´›‡…
+A
+java:S1075k"&Remove this hard-coded path-delimiter.(ÀÕ—ìùÿÿÿÿ
+g
+java:S1874™"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(õò±¼8£Ç”Ÿ‘/
+D
+java:S1075œ"&Remove this hard-coded path-delimiter.(ó¿®8£Ç”Ÿ‘/
+I
+java:S1075›"&Remove this hard-coded path-delimiter.(»éñŠüÿÿÿÿ8£Ç”Ÿ‘/
+I
+java:S1075š"&Remove this hard-coded path-delimiter.(†öãáÿÿÿÿÿ8£Ç”Ÿ‘/
+g
+java:S1874ó"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(õò±¼8ó¯¥Ÿ‘/
+C
+java:S1075÷"&Remove this hard-coded path-delimiter.(«¡Æz8¨Ç”Ÿ‘/
+I
+java:S1075ö"&Remove this hard-coded path-delimiter.(»éñŠüÿÿÿÿ8ó¯¥Ÿ‘/
+I
+java:S1075õ"&Remove this hard-coded path-delimiter.(ØÒçÉüÿÿÿÿ8¨Ç”Ÿ‘/
+X
+java:S2209Ë"5Change this instance-reference to a static reference.(¤Ë‡úûÿÿÿÿ8‡«ğ¿«/

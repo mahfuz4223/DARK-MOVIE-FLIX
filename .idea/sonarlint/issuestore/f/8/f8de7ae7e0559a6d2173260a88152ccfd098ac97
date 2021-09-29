@@ -1,0 +1,32 @@
+
+N
+java:S1602;",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8°şşò˜/
+N
+java:S1612;",Replace this lambda with a method reference.(ËÕ£Õúÿÿÿÿ8Û¤€ó˜/
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+]	java:S125Z"<This block of commented-out lines of code should be removed.(Şùå…ÿÿÿÿÿ8ô¼¯ò˜/
+N
+java:S1602\",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8üæ„ó˜/
+N
+java:S1612\",Replace this lambda with a method reference.(ËÕ£Õúÿÿÿÿ8üæ„ó˜/
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'android.app.AlertDialog'.(ª½øşüÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ
+G
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+V
+java:S1128"4Remove this unused import 'com.dooo.android.Player'.(¡ĞèÑùÿÿÿÿ8–ÖÈ®¹/
+[
+java:S1128"@Remove this unused import 'com.dooo.android.list.WebSeriesList'.(…Ä¦ªıÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'com.google.android.gms.cast.RemoteMediaPlayer'.(àú¤¶ıÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'com.google.gson.JsonElement'.(ğ†˜³
+x
+java:S1192B"bDefine a constant instead of duplicating this literal "application/x-www-form-urlencoded" 4 times.(´İŠæ

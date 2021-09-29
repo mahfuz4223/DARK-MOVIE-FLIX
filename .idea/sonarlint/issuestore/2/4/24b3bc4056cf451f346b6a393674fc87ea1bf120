@@ -1,0 +1,12 @@
+
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÏ¦ñ
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ù¨ˆ
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Œ¾ï
+>
+java:S1604:"(Make this anonymous inner class a lambda(íèÄ
+C
+java:S1604k"(Make this anonymous inner class a lambda(–Ã©¥ıÿÿÿÿ
+x	java:S116"WRename this field "slider_items" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿°ÿÿÿÿÿÿ8Îø™’/
+p	java:S116Y"[Rename this field "ImageSlider_Text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ„¥Ô
+G
+java:S2114n"%Remove or correct this "addAll" call.(ñ¥¡Šùÿÿÿÿ8¤Îø™’/

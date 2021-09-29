@@ -1,0 +1,48 @@
+
+a	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+q	java:S116B"WRename this field "google_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÈ¡¨üÿÿÿÿ
+m
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(¨Œşÿÿÿÿ
+Z
+java:S1874T"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+P
+java:S2209c"5Change this instance-reference to a static reference.(ƒ©ãìûÿÿÿÿ
+H
+java:S1602ó",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ
+U
+java:S1874Æ">Remove this use of "startActivityForResult"; it is deprecated.(ØãÂà
+f
+java:S1874Ê"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ
+F	java:S108Û")Either remove or fill this block of code.(ŠÂì8ªğˆù»/
+W	java:S125ó"<This block of commented-out lines of code should be removed.(€ÿ¿Şşÿÿÿÿ
+H
+java:S1602­",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(§á±ùÿÿÿÿ
+Q
+java:S2209ù"5Change this instance-reference to a static reference.(ƒ©ãìûÿÿÿÿ
+^
+java:S1192œ"GDefine a constant instead of duplicating this literal "Status" 4 times.(Êå¤Ò
+p
+java:S1192ç"YDefine a constant instead of duplicating this literal "Email Already Regestered" 4 times.(Ş¥¹
+h
+java:S1192»"QDefine a constant instead of duplicating this literal "X-Requested-With" 4 times.(–óÅè
+b
+java:S1192¡"KDefine a constant instead of duplicating this literal "Successful" 4 times.(èÏŞ‚
+n
+java:S1192ª"WDefine a constant instead of duplicating this literal "Something Went Wrong!" 12 times.(ÒÑì
+o
+java:S1192™"XDefine a constant instead of duplicating this literal "/api/authentication.php" 4 times.(¶«Èü
+f
+java:S1192º"JDefine a constant instead of duplicating this literal "x-api-key" 5 times.(çú©ıÿÿÿÿ
+s	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¤Üÿÿÿÿÿ8¿‰ù»/
+n	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¬Ã¶8ÜÁŠù»/
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¿ëˆ
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¶Í
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅ”µ
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êìÿ¶
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êìÿ¶
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•û×òûÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•û×òûÿÿÿÿ
+3
+java:S1643Ö"Use a StringBuilder instead.(ğ¸½Ü

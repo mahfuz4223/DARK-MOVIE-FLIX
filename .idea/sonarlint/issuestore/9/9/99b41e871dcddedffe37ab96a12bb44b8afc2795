@@ -1,0 +1,105 @@
+
+r
+java:S3008"\Rename this field "unity_ad_testMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÍÇÌ
+†
+java:S3008"kRename this field "facebook_banner_ads_placement_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú Ìøÿÿÿÿ
+Œ
+java:S3008"qRename this field "facebook_interstitial_ads_placement_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñºµäøÿÿÿÿ
+u
+java:S3008"ZRename this field "AdColony_APP_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÇØÿüÿÿÿÿ
+x
+java:S3008"bRename this field "AdColony_BANNER_ZONE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É³ÅÊ
+~
+java:S3008"hRename this field "AdColony_INTERSTITIAL_ZONE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÆšĞ
+m
+java:S3008"XRename this field "Unity_Game_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÍ
+p
+java:S3008"ZRename this field "Unity_Banner_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÎ°
+w
+java:S3008 "\Rename this field "Custom_Banner_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜´Íÿÿÿÿÿ
+‰
+java:S3008!"gRename this field "Custom_Banner_click_url_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şœÄ…ıÿÿÿÿ8éÅ›Â¸/
+x
+java:S3008""bRename this field "Custom_Banner_click_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÛ·
+„
+java:S3008#"bRename this field "Custom_Interstitial_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÅºÎûÿÿÿÿ8¥ÎØ¸/
+Š
+java:S3008$"mRename this field "Custom_Interstitial_click_url_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŞŸÛ8†ÍÎØ¸/
+…
+java:S3008%"hRename this field "Custom_Interstitial_click_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¡é®8¦·ÏØ¸/
+q
+java:S3008("[Rename this field "all_live_tv_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¾¬Ï
+p
+java:S3008)"ZRename this field "all_movies_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ì º
+u
+java:S3008*"ZRename this field "all_series_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÎÁĞüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(àüÌöüÿÿÿÿ
+e
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(€Ë‹Á
+h
+java:S1104"RMake apiKey a static final constant or non-public and provide accessors if needed.(§Í„
+s
+java:S1104"]Make unity_ad_testMode a static final constant or non-public and provide accessors if needed.(µÍÇÌ
+v
+java:S1104"[Make AdColony_APP_ID a static final constant or non-public and provide accessors if needed.(ıÇØÿüÿÿÿÿ
+y
+java:S1104"cMake AdColony_BANNER_ZONE_ID a static final constant or non-public and provide accessors if needed.(É³ÅÊ
+
+java:S1104"iMake AdColony_INTERSTITIAL_ZONE_ID a static final constant or non-public and provide accessors if needed.(´ÆšĞ
+n
+java:S1104"YMake Unity_Game_ID a static final constant or non-public and provide accessors if needed.(ÔÍ
+q
+java:S1104"[Make Unity_Banner_ID a static final constant or non-public and provide accessors if needed.(ÍÎ°
+x
+java:S1104 "]Make Custom_Banner_url a static final constant or non-public and provide accessors if needed.(˜´Íÿÿÿÿÿ
+Š
+java:S1104!"hMake Custom_Banner_click_url_type a static final constant or non-public and provide accessors if needed.(şœÄ…ıÿÿÿÿ8öÅ›Â¸/
+y
+java:S1104""cMake Custom_Banner_click_url a static final constant or non-public and provide accessors if needed.(ˆÛ·
+…
+java:S1104#"cMake Custom_Interstitial_url a static final constant or non-public and provide accessors if needed.(ÀÅºÎûÿÿÿÿ8Û¥ÎØ¸/
+‹
+java:S1104$"nMake Custom_Interstitial_click_url_type a static final constant or non-public and provide accessors if needed.(ùŞŸÛ8¯ÍÎØ¸/
+†
+java:S1104%"iMake Custom_Interstitial_click_url a static final constant or non-public and provide accessors if needed.(…¡é®8Ï·ÏØ¸/
+r
+java:S1104("\Make all_live_tv_type a static final constant or non-public and provide accessors if needed.(’¾¬Ï
+q
+java:S1104)"[Make all_movies_type a static final constant or non-public and provide accessors if needed.(…Ì º
+v
+java:S1104*"[Make all_series_type a static final constant or non-public and provide accessors if needed.(æÎÁĞüÿÿÿÿ
+?
+java:S1444")Make this "public static url" field final(€Ë‹Á
+B
+java:S1444",Make this "public static apiKey" field final(§Í„
+M
+java:S1444"7Make this "public static unity_ad_testMode" field final(µÍÇÌ
+P
+java:S1444"5Make this "public static AdColony_APP_ID" field final(ıÇØÿüÿÿÿÿ
+S
+java:S1444"=Make this "public static AdColony_BANNER_ZONE_ID" field final(É³ÅÊ
+Y
+java:S1444"CMake this "public static AdColony_INTERSTITIAL_ZONE_ID" field final(´ÆšĞ
+H
+java:S1444"3Make this "public static Unity_Game_ID" field final(ÔÍ
+K
+java:S1444"5Make this "public static Unity_Banner_ID" field final(ÍÎ°
+R
+java:S1444 "7Make this "public static Custom_Banner_url" field final(˜´Íÿÿÿÿÿ
+d
+java:S1444!"BMake this "public static Custom_Banner_click_url_type" field final(şœÄ…ıÿÿÿÿ8÷Å›Â¸/
+S
+java:S1444""=Make this "public static Custom_Banner_click_url" field final(ˆÛ·
+_
+java:S1444#"=Make this "public static Custom_Interstitial_url" field final(ÀÅºÎûÿÿÿÿ8İ¥ÎØ¸/
+e
+java:S1444$"HMake this "public static Custom_Interstitial_click_url_type" field final(ùŞŸÛ8²ÍÎØ¸/
+`
+java:S1444%"CMake this "public static Custom_Interstitial_click_url" field final(…¡é®8Ñ·ÏØ¸/
+L
+java:S1444("6Make this "public static all_live_tv_type" field final(’¾¬Ï
+K
+java:S1444)"5Make this "public static all_movies_type" field final(…Ì º
+P
+java:S1444*"5Make this "public static all_series_type" field final(æÎÁĞüÿÿÿÿ

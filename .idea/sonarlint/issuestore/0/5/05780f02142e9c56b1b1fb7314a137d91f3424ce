@@ -1,0 +1,22 @@
+
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÓŸ¡‹
+k	java:S116–"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çì¡òøÿÿÿÿ
+g	java:S116—"QRename this field "Banner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ìÎè
+z	java:S116™"_Rename this field "live_tv_channel_Item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÓÁÙùÿÿÿÿ
+	java:S116š"dRename this field "show_all_live_tv_channels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¿¯êûÿÿÿÿ
+q	java:S116œ"VRename this field "Premium_Tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃÌèûÿÿÿÿ
+i	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à´Áúıÿÿÿÿ
+h
+java:S1192P"MDefine a constant instead of duplicating this literal "content_type" 4 times.(ê¡Óºøÿÿÿÿ
+a
+java:S1192H"FDefine a constant instead of duplicating this literal "Embed" 4 times.(‹²¯»úÿÿÿÿ
+b
+java:S1192N"GDefine a constant instead of duplicating this literal "source" 4 times.(öƒ•Øüÿÿÿÿ
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¯Ë¤şÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µïƒıÿÿÿÿ
+C
+java:S1604A"(Make this anonymous inner class a lambda(ÿìÑıÿÿÿÿ
+D
+java:S1604†"(Make this anonymous inner class a lambda(–î¤¢ùÿÿÿÿ
+c	java:S101•"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í«ÿÎ

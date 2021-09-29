@@ -1,0 +1,71 @@
+
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(ºÙßÅ
+	java:S116"jRename this field "DEFAULT_APP_IMAGEDATA_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þß´Ô
+T
+java:S1874"9Remove this use of "PreferenceManager"; it is deprecated.(£×î²þÿÿÿÿ
+^
+java:S1874"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(£×î²þÿÿÿÿ
+H
+java:S1135-"2Complete the task associated to this TODO comment.(‡ñÅ¼
+^
+java:S1874e"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(±ŒÖÿÿÿÿÿ
+j
+java:S4042‚"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Îšôþÿÿÿÿ
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+u
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅÝùÿÿÿÿ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(àçºÆ
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅÝùÿÿÿÿ
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìãµ°ùÿÿÿÿ
+u
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅÝùÿÿÿÿ
+u
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÞÔ‘³üÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¡ÜÃùÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëÿ¡ïùÿÿÿÿ
+Y
+java:S1126¨"BReplace this if-then-else statement by a single method invocation.(¥ÞŠ²
+W	java:S125³"<This block of commented-out lines of code should be removed.(¬ÛÈŽÿÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(Ò¿¾Õùÿÿÿÿ
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰«×õ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(—ú¿±úÿÿÿÿ
+e
+java:S4042í"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¥Ç¼Ö
+B
+java:S1452ü"&Remove usage of generic wildcard type.(Ç ù™üÿÿÿÿ
+E
+java:S1066h"/Merge this if statement with the enclosing one.(ºó¢Š
+K
+java:S1066‚"/Merge this if statement with the enclosing one.(Îšôþÿÿÿÿ
+Œ
+java:S1319¶"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é»ê·úÿÿÿÿ
+Œ
+java:S1319è"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÝÜùíøÿÿÿÿ
+‡
+java:S1319ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÓÅº£
+Œ
+java:S1319‘"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é¯Šûûÿÿÿÿ
+‡
+java:S1319£"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶ÄÛÀ
+Ž
+java:S1319Ý"rThe type of the "intList" object should be an interface such as "List" rather than the implementation "ArrayList".(¼Ë¶üÿÿÿÿ
+
+java:S1319ò"sThe type of the "longList" object should be an interface such as "List" rather than the implementation "ArrayList".(¨ŒŠ¶úÿÿÿÿ
+‘
+java:S1319‘"uThe type of the "doubleList" object should be an interface such as "List" rather than the implementation "ArrayList".(„Ÿ¤øÿÿÿÿ
+Œ
+java:S1319¦"uThe type of the "stringList" object should be an interface such as "List" rather than the implementation "ArrayList".(â»í·
+Š
+java:S1319»"sThe type of the "boolList" object should be an interface such as "List" rather than the implementation "ArrayList".(™ƒ¶ß
+A
+java:S5411À"*Use the primitive boolean expression here.(¸è×¨
+Š
+java:S4165“"nRemove this useless assignment; "bitmapCompressed" already holds the assigned value along all execution paths.(ÖÙûŠüÿÿÿÿ

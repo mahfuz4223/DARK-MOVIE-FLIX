@@ -1,0 +1,9 @@
+
+y
+java:S1128"]Remove this unused import 'org.imaginativeworld.oopsnointernet.callbacks.ConnectionCallback'.(ƒà‚8ßÀ³ž‘/
+X
+java:S1874%"=Remove this use of "setSystemUiVisibility"; it is deprecated.(„“©§þÿÿÿÿ
+b
+java:S1874%"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(„“©§þÿÿÿÿ
+Z
+java:S1874("?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ

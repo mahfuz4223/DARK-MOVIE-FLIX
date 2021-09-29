@@ -1,0 +1,19 @@
+
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8–Òˆ /
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ûÿ…Ëùÿÿÿÿ
+d
+java:S1874'"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(á£áüÿÿÿÿ
+<
+java:S1075)"&Remove this hard-coded path-delimiter.(ÙóÙƒ
+A
+java:S1075("&Remove this hard-coded path-delimiter.(¤Ü‚Œÿÿÿÿÿ
+~
+java:S32522"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(‰®‹Å
+ƒ
+java:S3252;"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ËØò¨úÿÿÿÿ
+i
+java:S4042U"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+U	java:S899U";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+]	java:S899†"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ

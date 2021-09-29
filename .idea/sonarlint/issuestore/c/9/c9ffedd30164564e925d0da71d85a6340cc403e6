@@ -1,0 +1,24 @@
+
+^	java:S107,"BConstructor has 11 parameters, which is greater than 7 authorized.(´çÅ§8“¢ÃŞ¥/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÅ§8–¢ÃŞ¥/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÅ§8–¢ÃŞ¥/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÅ§8–¢ÃŞ¥/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÅ§8–¢ÃŞ¥/
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³ãë8ÉçÃŞ¥/
+l	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨˜­|8ÉçÃŞ¥/
+m	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É½Øå8ÉçÃŞ¥/
+s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‡Ôêüÿÿÿÿ8ÉçÃŞ¥/
+N
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ
+o	java:S116"URename this field "content_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ôŠÌüÿÿÿÿ
+r	java:S116"VRename this field "source_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùß÷ƒ8ï¤À¥/
+q	java:S116"URename this field "source_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÀ¨8÷ï¤À¥/
+s	java:S116'"WRename this field "content_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ©8Ş§À¥/
+j	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïù¯8ÎçÃŞ¥/
+j	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ³ãë8ÏçÃŞ¥/
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Åû8ÏçÃŞ¥/
+i	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨˜­|8ÏçÃŞ¥/
+o	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ†¶ıÿÿÿÿ8ÏçÃŞ¥/
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É½Øå8ÏçÃŞ¥/
+k	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øà¹Ï8ÑçÃŞ¥/
+p	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‡Ôêüÿÿÿÿ8ÑçÃŞ¥/

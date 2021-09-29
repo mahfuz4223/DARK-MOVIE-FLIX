@@ -1,0 +1,34 @@
+
+L
+java:S1874D"6Remove this use of "ProgressDialog"; it is deprecated.(íÁİÀ
+h
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ãÅš‰
+Q
+java:S2696^"6Make the enclosing method "static" or remove this set.(“Ú½úÿÿÿÿ
+Q
+java:S1874^"6Remove this use of "ProgressDialog"; it is deprecated.(“Ú½úÿÿÿÿ
+H
+java:S1874_"2Remove this use of "setMessage"; it is deprecated.(í™µø
+E
+java:S1481k"*Remove this unused "model" local variable.(„Ìİ¢şÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ñ•ŞËşÿÿÿÿ
+H
+java:S1602¼",Remove useless curly braces around statement(ûµ¸‰üÿÿÿÿ
+H
+java:S1602¿",Remove useless curly braces around statement(ªÎ¥Øûÿÿÿÿ
+Ÿ
+java:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â¥úÑ8×ŒŠ§»/
+Ÿ
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â¥úÑ8ÜŒŠ§»/
+O
+java:S1602ò",Remove useless curly braces around statement(ªÎ¥Øûÿÿÿÿ8ŞŒŠ§»/
+q	java:S116“"TRename this field "link_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âäø8éŒŠ§»/
+O
+java:S1602·",Remove useless curly braces around statement(ªÎ¥Øûÿÿÿÿ8òŒŠ§»/
+e
+java:S1192»"IDefine a constant instead of duplicating this literal "Quality!" 3 times.(¾¼×Áøÿÿÿÿ
+b
+java:S1192¿"FDefine a constant instead of duplicating this literal "Close" 3 times.(ªÎ¥Øûÿÿÿÿ
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¨üç
+K
+java:S1604â"(Make this anonymous inner class a lambda(“şÃºşÿÿÿÿ8ùŒŠ§»/

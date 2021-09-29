@@ -1,0 +1,90 @@
+
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ
+D
+java:S1874X".Remove this use of "locale"; it is deprecated.(¹ã†É
+V
+java:S1874Y";Remove this use of "updateConfiguration"; it is deprecated.(©«ÏÑıÿÿÿÿ
+Z
+java:S1874c"?Remove this use of "FLAG_TRANSLUCENT_STATUS"; it is deprecated.(¿™¡’ûÿÿÿÿ
+Q
+java:S2696r"6Make the enclosing method "static" or remove this set.(£Š¬ìùÿÿÿÿ
+L
+java:S2209‚"5Change this instance-reference to a static reference.(ª•·Ì
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Áò¤øÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ß’Ù¼ÿÿÿÿÿ
+F
+java:S1874«"/Remove this use of "Handler"; it is deprecated.(’Ú©Š
+M
+java:S2696±"6Make the enclosing method "static" or remove this set.(ÿ‘¹ú
+F
+java:S1874µ"/Remove this use of "Handler"; it is deprecated.(’Ú©Š
+F
+java:S1874À"/Remove this use of "Handler"; it is deprecated.(’Ú©Š
+M
+java:S2696ì"6Make the enclosing method "static" or remove this set.(ÿ‘¹ú
+^	java:S125"<This block of commented-out lines of code should be removed.(×…¼üÿÿÿÿ8ãÊ‚Š»/
+Y	java:S125”"<This block of commented-out lines of code should be removed.(¹éÇ8ãÊ‚Š»/
+M
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.(ÕŠÏ‡
+R
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(­˜ÊÒúÿÿÿÿ
+R
+java:S2696Ò"6Make the enclosing method "static" or remove this set.(™Òáúÿÿÿÿ
+R
+java:S2696×"6Make the enclosing method "static" or remove this set.(‰íˆîşÿÿÿÿ
+M
+java:S2696Ø"6Make the enclosing method "static" or remove this set.(‚ÎÖù
+R
+java:S2696Ù"6Make the enclosing method "static" or remove this set.(Ì ¢¬şÿÿÿÿ
+R
+java:S2696Û"6Make the enclosing method "static" or remove this set.(åªä‹úÿÿÿÿ
+R
+java:S2696Ü"6Make the enclosing method "static" or remove this set.(àÒ¸”ıÿÿÿÿ
+R
+java:S2696Ş"6Make the enclosing method "static" or remove this set.(×œ‘Äşÿÿÿÿ
+R
+java:S2696ß"6Make the enclosing method "static" or remove this set.(†Ò¿¬ûÿÿÿÿ
+R
+java:S2696à"6Make the enclosing method "static" or remove this set.(€Ú¨şÿÿÿÿ
+M
+java:S2696â"6Make the enclosing method "static" or remove this set.(§¥´¤
+R
+java:S2696ã"6Make the enclosing method "static" or remove this set.(±ã•óşÿÿÿÿ
+R
+java:S2696å"6Make the enclosing method "static" or remove this set.(¡úí§üÿÿÿÿ
+M
+java:S2696æ"6Make the enclosing method "static" or remove this set.(ÿÃ„õ
+R
+java:S2696ç"6Make the enclosing method "static" or remove this set.(­°øˆÿÿÿÿÿ
+M
+java:S2696è"6Make the enclosing method "static" or remove this set.(ÿĞ‹Ï
+M
+java:S2696é"6Make the enclosing method "static" or remove this set.(›ÛùÊ
+R
+java:S2696ê"6Make the enclosing method "static" or remove this set.(¦Çøøÿÿÿÿ
+L
+java:S2209‹"5Change this instance-reference to a static reference.(ª•·Ì
+t
+java:S1192Î"XDefine a constant instead of duplicating this literal "Whats_new_on_latest_APK" 3 times.(Õø­§ıÿÿÿÿ
+d
+java:S1192Í"MDefine a constant instead of duplicating this literal "APK_File_URL" 3 times.(ˆ±ã²
+f
+java:S1192˜"JDefine a constant instead of duplicating this literal "x-api-key" 3 times.(çú©ıÿÿÿÿ
+i
+java:S1192ã"RDefine a constant instead of duplicating this literal "subscription_type" 4 times.(š¶§
+h
+java:S1192¼"RDefine a constant instead of duplicating this literal "SharedPreferences" 6 times.(¼ß§}
+_
+java:S1192ß"HDefine a constant instead of duplicating this literal "Update " 4 times.(ù…çŞ
+g
+java:S1192S"LDefine a constant instead of duplicating this literal "appLanguage" 3 times.(ÍŒöÿÿÿÿÿ
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öë‡È
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ñ“
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ø­Ÿúÿÿÿÿ
+w
+java:S11048"\Make notificationData a static final constant or non-public and provide accessors if needed.(©Õÿÿÿÿÿ
+Q
+java:S14448"6Make this "public static notificationData" field final(©Õÿÿÿÿÿ

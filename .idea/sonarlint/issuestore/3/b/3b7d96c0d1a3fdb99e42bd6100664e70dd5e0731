@@ -1,0 +1,23 @@
+
+[	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(é­üêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­üêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­üêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­üêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­üêúÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M
+e	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºÏ.
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆØÏ‚ıÿÿÿÿ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µèÂ
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒŸ8ÕÅĞ¶‘/
+p	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ8ÕÅĞ¶‘/
+r	java:S116"QRename this field "Banner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŠ€’şÿÿÿÿ8ÕÅĞ¶‘/
+w	java:S116"VRename this field "stream_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰µŸÚÿÿÿÿÿ8ÕÅĞ¶‘/
+s	java:S116
+"WRename this field "content_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£˜ñ»8ÕÅĞ¶‘/
+s	java:S116"WRename this field "Play_Premium" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‰8ÕÅĞ¶‘/
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑîÏ
+b	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºÏ.
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠóÕÿÿÿÿÿ
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆØÏ‚ıÿÿÿÿ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€×Òÿÿÿÿÿ
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µèÂ
